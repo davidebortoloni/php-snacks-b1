@@ -34,7 +34,7 @@ include_once($_SERVER['DOCUMENT_ROOT'] . '/Projects/php-snacks-b1/components/hea
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-auto text-center">
-                    <h2>15 numeri casuali</h2>
+                    <h1>Random numbers</h1>
                     <ul class="list-unstyled">
                         <?php
                         foreach ($fifteen_rand_num as $num) {

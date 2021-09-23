@@ -8,8 +8,8 @@ $menu_links = [
     ],
     [
         "id" => 2,
-        "text" => "5tud3nt5_r3p0rt5",
-        "url" => "http://localhost/Projects/php-snacks-b1/views/students_reports.php",
+        "text" => "5tud3nt_r3p0rt5",
+        "url" => "http://localhost/Projects/php-snacks-b1/views/student_reports.php",
     ],
     [
         "id" => 3,
