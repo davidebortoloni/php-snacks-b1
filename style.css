@@ -1,0 +1,12 @@
+#logo {
+    width: 150px;
+}
+nav a {
+    font-size: 17px;
+    color: gray;
+    text-decoration: none;
+}
+nav a:hover, 
+nav a.active {
+    color: black;
+}
